@@ -11,4 +11,11 @@ engineer in the future. I **WELCOME** all the support I get from friends and tha
      style="float: left; margin-right: 10px;" />
      [Link to Web Page!](https://militaryk.github.io/SchoolProject/)
 
+<img src="https://militaryk.github.io/assets/images/screen-shot-2018-07-26-at-7-12.png"
+     alt="Scouts"
+     ahref="https://militaryk.github.io/SchoolProject/"
+     style="float: left; margin-right: 10px;" />
+     [Link to Web Page!](https://militaryk.github.io/ScoutsUnofficialWebsite)
+     
+
 
